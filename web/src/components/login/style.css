@@ -1,0 +1,14 @@
+.main{
+    width: 50%;
+    margin: 0% auto;
+    border: 2px solid black;
+    height: 300px;
+
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+label input{
+    text-align: center;
+}
